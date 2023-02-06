@@ -44,5 +44,6 @@
  "[python]": {
   "editor.tabSize": 1
  },
- "sqltools.connections": []
+ "sqltools.connections": [],
+ "sqltools.defaultConnId": 2445
 }
